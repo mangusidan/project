@@ -1,0 +1,13 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  question_number: 
+  category_id: 
+  user_id: 
+  is_completed: false
+
+two:
+  question_number: 
+  category_id: 
+  user_id: 
+  is_completed: false
